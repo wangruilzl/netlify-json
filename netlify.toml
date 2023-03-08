@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/.well-known/jwks.json"
+  from = "/api/.well-known/jwks.json"
   to = "/jwks.json"
   status = 200
   force = true
