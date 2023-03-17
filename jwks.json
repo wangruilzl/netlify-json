@@ -3,10 +3,10 @@
     {
       "kty": "EC",
       "crv": "P-256",
-      "x": "Ir-MHSqMMAZQFVbM2Jq0nLAzjGGvbgqa1Pb6lNFsRdY=",
-      "y": "d6tKcaeDKFGaqUoVvIJ-ANtUTJkfT4WK25EBjg8ALvM=",
+      "x": "AJNWgtywQMjZxC9VLc7raYx2rJ2WeOHPw9yhi_Ugsok0",
+      "y": "AKNLpsdbbrIBOi4xBRdIz_x3A6Nz9C8e0Z4eC1el7n5H",
       "use": "sig",
-      "kid": "EC:SXItTUhTcU1NQVpRRlZiTTJKcTBuTEF6akdHdmJncWExUGI2bE5Gc1JkWT0",
+      "kid": "EC:QUpOV2d0eXdRTWpaeEM5VkxjN3JhWXgyckoyV2VPSFB3OXloaV9VZ3NvazA",
       "alg": "ES256"
     }
   ]
